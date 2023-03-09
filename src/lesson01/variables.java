@@ -2,7 +2,7 @@ package lesson01;
 
 public class variables {
     public static void main(String[] args) {
-        byte myByte = 25;
+        byte myByte = 35;
         short myShort;
         myShort = 345;
         int myInt = 1_23_123_1;
