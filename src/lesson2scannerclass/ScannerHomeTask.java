@@ -12,7 +12,7 @@ public class ScannerHomeTask
             System.out.println("where are you live?");
             String mylocation = input.nextLine();
             System.out.println("what is your average");
-            int myAverage = input.nextInt();
+            double myAverage = input.nextInt();
             System.out.println("what is your age");
             int myAge = input.nextInt();
         }
