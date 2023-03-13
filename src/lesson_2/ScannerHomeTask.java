@@ -1,4 +1,4 @@
-package lesson2scannerclass;
+package lesson_2;
 import java.util.Scanner;
 public class ScannerHomeTask
     {

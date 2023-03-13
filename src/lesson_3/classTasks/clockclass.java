@@ -1,4 +1,4 @@
-package classTasks;
+package lesson_3.classTasks;
 import java.util.Scanner;
 public class clockclass {
     public static void main(String[] args) {

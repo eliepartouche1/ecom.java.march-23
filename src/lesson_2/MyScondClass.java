@@ -1,3 +1,5 @@
+package lesson_2;
+
 public class MyScondClass {
     public static void main(String[] args) {
         int myNum = 3;
