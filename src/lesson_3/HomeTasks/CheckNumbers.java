@@ -8,11 +8,11 @@ public class CheckNumbers {
         int d = 25;
         int e = 10;
 
-        System.out.println(a%10 == 0);
-        System.out.println(b%10 == 2);
-        System.out.println(c%10 == 5);
-        System.out.println(d%10 == 5);
-        System.out.println(e%10 == 1);
+        System.out.println(a%2 == 0);
+        System.out.println(b%2 == 0);
+        System.out.println(c%2 == 0);
+        System.out.println(d%2 == 0);
+        System.out.println(e%2 == 0);
 
 
 
