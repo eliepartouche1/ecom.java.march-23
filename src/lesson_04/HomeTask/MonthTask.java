@@ -2,7 +2,7 @@ package lesson_04.HomeTask;
 
 import java.util.Scanner;
 
-public class CredentialsTask {
+public class MonthTask {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("what a month?");
