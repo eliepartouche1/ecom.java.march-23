@@ -2,6 +2,7 @@ package lesson_05.Array.classTask;
 
 public class ArrayClassWork {
     public static void main(String[] args) {
+
         int numbersArray[] = new int[10];
         System.out.println("numbersArray[0] = " + numbersArray[0]);
         numbersArray[0] = 15;
