@@ -12,7 +12,7 @@ public class CredentialsTask {
         String a = scanner.nextLine();
         String b = scanner.nextLine();
 
-        if (a.equals("elie partouche") && b.equals("12345678")) {
+        if (a.equals(username) && b.equals(password)) {
             System.out.println("welcome");
         }
         else {
