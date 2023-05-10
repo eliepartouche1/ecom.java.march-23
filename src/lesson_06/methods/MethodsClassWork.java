@@ -1,4 +1,4 @@
-package lesson_06.scope.methods.MethodsClassWork;
+package lesson_06.methods;
 
 import java.util.Date;
 
